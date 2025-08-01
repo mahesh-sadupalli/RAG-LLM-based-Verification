@@ -24,9 +24,5 @@ We build upon these foundational papers:
 - Z3 SMT Solver
 - GitHub Pages
 
-## 👨‍🔬 Project Lead
-**Mahesh Sadupalli, M.Sc. Artificial Intelligence**
 
----
 
-Stay tuned for updates and live demos!
