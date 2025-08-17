@@ -5,7 +5,7 @@
 This project demonstrates **neural code search** capabilities by matching verification requirements to relevant SystemVerilog code using embedding models and contrastive learning techniques. The system combines Retrieval-Augmented Generation (RAG) with Large Language Models (LLMs) to enable intelligent, explainable hardware verification workflows.
 
 ### Key Features
-- ** Embedding-based Code Retrieval**: Semantic search using sentence transformers for SystemVerilog code and requirements
+- **Embedding-based Code Retrieval**: Semantic search using sentence transformers for SystemVerilog code and requirements
 - **Contrastive Learning**: Fine-tuned embeddings that align code snippets with verification requirements  
 - **Multi-modal Search**: Cross-modal retrieval between natural language queries and code implementations
 - **Explainable Results**: Transparent similarity scoring and ranking with detailed explanations
